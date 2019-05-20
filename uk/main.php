@@ -556,7 +556,7 @@ return array(
     "ui_login"                       => "увійти",
     "ui_logout"                      => "вихід",
     "setting"                        => "Системні налаштування",
-    "setting_title"                  => "опції",
+    "setting_title"                  => "Налаштування",
     "setting_user"                   => "Персональний центр",
     "setting_password"               => "зміна пароля",
     "setting_password_old"           => "Старий пароль",
