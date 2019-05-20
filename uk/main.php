@@ -732,7 +732,7 @@ return array(
     "charset_convert_save"           => "Збережіть файл, закодований в",
     "PluginCenter"                   => "підключи центр",
     "PluginBuy"                      => "Авторизація покупки",
-    "PluginInstalled"                => "було встановлено",
+    "PluginInstalled"                => "Вже встановлено",
     "PluginUpdate"                   => "оновлення",
     "PluginListNull"                 => "Там немає змісту!",
     "PluginType"                     => "класифікація",
