@@ -267,7 +267,6 @@ return array(
     "version_name_4"                 => "VIP 4",
     "version_name_5"                 => "VIP 5",
     "version_name_6"                 => "VIP 6",
-    "version_vip_free"               => "Бесплатный",
     "version_vip_1"                  => "VIP 1",
     "version_vip_2"                  => "VIP 2",
     "version_vip_3"                  => "VIP 3",
