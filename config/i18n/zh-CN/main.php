@@ -267,7 +267,6 @@ return array(
     "version_name_4"                 => "高级版1",
     "version_name_5"                 => "高级版2",
     "version_name_6"                 => "高级版3",
-    "version_vip_free"               => "免费版",
     "version_vip_1"                  => "VIP 1 (团队版)",
     "version_vip_2"                  => "VIP 2 (专业版)",
     "version_vip_3"                  => "VIP 3 (企业版)",

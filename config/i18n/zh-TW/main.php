@@ -267,8 +267,6 @@ return array(
     "version_name_4"                 => "進階版1",
     "version_name_5"                 => "進階版2",
     "version_name_6"                 => "進階版3",
-    "version_vip_free"               => "免費版",
-    "version_vip_1"                  => "VIP 1 (團隊版)",
     "version_vip_2"                  => "VIP 2 (專業版)",
     "version_vip_3"                  => "VIP 3 (企業版)",
     "version_vip_4"                  => "VIP 4 (進階版)",
